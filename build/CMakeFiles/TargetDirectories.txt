@@ -1,0 +1,9 @@
+C:/Users/kuznecov/Desktop/SKFGtest/build/CMakeFiles/CMakeLists.txt.dir
+C:/Users/kuznecov/Desktop/SKFGtest/build/CMakeFiles/NightlyMemoryCheck.dir
+C:/Users/kuznecov/Desktop/SKFGtest/build/CMakeFiles/Experimental.dir
+C:/Users/kuznecov/Desktop/SKFGtest/build/CMakeFiles/Continuous.dir
+C:/Users/kuznecov/Desktop/SKFGtest/build/CMakeFiles/Nightly.dir
+C:/Users/kuznecov/Desktop/SKFGtest/build/CMakeFiles/PACKAGE.dir
+C:/Users/kuznecov/Desktop/SKFGtest/build/CMakeFiles/RUN_TESTS.dir
+C:/Users/kuznecov/Desktop/SKFGtest/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/kuznecov/Desktop/SKFGtest/build/CMakeFiles/ZERO_CHECK.dir

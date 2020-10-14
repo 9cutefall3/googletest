@@ -1,0 +1,10 @@
+^C:\USERS\KUZNECOV\DESKTOP\SKFGTEST\BUILD\CMAKEFILES\89E6BDF9D821C0187F5C0A3419ABDB40\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Users/kuznecov/Desktop/SKFGtest -BC:/Users/kuznecov/Desktop/SKFGtest/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/kuznecov/Desktop/SKFGtest/build/CMakeLists.txt.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
